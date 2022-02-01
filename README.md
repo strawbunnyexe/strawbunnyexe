@@ -13,6 +13,9 @@ I enjoy working alongside others to help develop creative and fun projects. I'm 
 In my spare time, I draw digital illustrations, both original character design and fanart, posting them on my social media.
 
 
-Feel free to look at my pinned repositories for examples of game projects I worked on. Contact me if you require code samples or source code from my projects and I can send them.
+Feel free to look at my pinned repositories for examples of game projects I worked on. Some projects will contain an executable build while others contain the entire solution with code files to view. Contact me if you require code samples or source code from my projects and I can send them. Thank you!
 
+
+Contact me:
 - [LinkedIn](https://linkedin.com/in/jennifer-pichardo)
+- [Email](mailto:jenniferpichardo15@gmail.com)
