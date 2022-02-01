@@ -13,4 +13,3 @@ I enjoy working alongside others to help develop creative and fun projects. I'm 
 In my spare time, I draw digital illustrations, both original character design and fanart, posting them on my social media.
 
 - [LinkedIn](https://linkedin.com/in/jennifer-pichardo)
-- [Email](mailto:rabunndaluna@gmail.com)
