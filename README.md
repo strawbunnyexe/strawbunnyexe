@@ -1,8 +1,8 @@
 ### Hello World! 👋
 
-Hello! I'm Jennifer Pichardo (pronouns: they/them) and I'm an aspiring game developer currently studying Game Design and Development at Rochester Institute of Technology.
+Hello! I'm Jennifer Pichardo (pronouns: they/she), an aspiring game developer currently studying Game Design and Development at Rochester Institute of Technology.
 
-I enjoy working alongside others to help develop creative and fun projects. I'm familiar with languages such as C#, C++, HTML, CSS, and JavaScript. I also have worked with Unity Game Engine, Unreal Game Engine, and Visual Studio.
+I enjoy working alongside others to help develop creative and fun interactive projects. I'm familiar with languages such as C#, C++, HTML, CSS, and JavaScript.
 
 
 In my spare time, I draw digital illustrations, both original character design and fanart, posting them on my social media.
