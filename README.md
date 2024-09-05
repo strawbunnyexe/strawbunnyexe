@@ -21,6 +21,9 @@ const jennifer = {
   favoriteGames: ["Mother 3", "Ace Attorney", "Pokemon", "Wadanohara"]
 };
 ```
+<img src="https://raw.githubusercontent.com/strawbunnyexe/strawbunnyexe/output/snake.svg" alt="Snake animation" />
+
+###
 
 ### Contact Me
 - [Website](https://jenniferpichardo.com/)
