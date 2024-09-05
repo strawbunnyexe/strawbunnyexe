@@ -1,9 +1,9 @@
-<h1> Hi, I'm Jennifer Pichardo! <img src="https://media0.giphy.com/media/Plb5rBc6Be47sWspxV/200w.webp" width="50"></h1>
+<h1> Hi, I'm Jennifer Pichardo! <img src="https://media0.giphy.com/media/Plb5rBc6Be47sWspxV/200w.webp" width="60"></h1>
 <img align='right' src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif" width="230">
-<p><em>Game Design and Development student at <a href="https://www.rit.edu/">Rochester Institute of Technology</a><img src="https://media4.giphy.com/media/W1rum7BdTV1xc3OHTG/200w.webp" width="34" style="transform:scaleX(-1); margin-bottom:-8px"></br>I mostly enjoy working on game projects and web applications! <img src="https://media4.giphy.com/media/iG9uNqUYA90WxQoWvx/200w.webp" width="50" style="margin-bottom:-20px"> 
+<p><em>Game Design and Development student at <a href="https://www.rit.edu/">Rochester Institute of Technology</a><img src="https://media4.giphy.com/media/W1rum7BdTV1xc3OHTG/200w.webp" width="40"></br>I mostly enjoy working on game projects and web applications! <img src="https://media4.giphy.com/media/iG9uNqUYA90WxQoWvx/200w.webp" width="50"> 
 </em></p>
 
-### <img src="https://media2.giphy.com/media/jtQWcLcZPnx64woMB5/200w.webp" width="50" style="margin-bottom:-20px"> A little more about me...  
+### <img src="https://media2.giphy.com/media/jtQWcLcZPnx64woMB5/200w.webp" width="40"> A little more about me...  
 
 ```javascript
 const jennifer = {
@@ -12,7 +12,7 @@ const jennifer = {
   askMeAbout: ["game design", "web dev", "tech", "music", "art"],
   technologies:{
       frontEnd:{
-        js: ["React", "Vue"],
+        js: ["React"],
         css: ["Bootstrap", "Bulma"]
       },
       backEnd: ["Node", "MongoDB"],
