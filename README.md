@@ -1,17 +1,29 @@
-### Hello World! 👋
+<h1> Hi, I'm Jennifer Pichardo! <img src="https://media0.giphy.com/media/Plb5rBc6Be47sWspxV/200w.webp" width="50"></h1>
+<img align='right' src="https://user-images.githubusercontent.com/74038190/216655825-c639587f-6eb0-4841-b622-9f522f55d40e.gif" width="230">
+<p><em>Game Design and Development student at <a href="https://www.rit.edu/">Rochester Institute of Technology</a><img src="https://media4.giphy.com/media/W1rum7BdTV1xc3OHTG/200w.webp" width="34" style="transform:scaleX(-1); margin-bottom:-8px"></br>I mostly enjoy working on game projects and web applications! <img src="https://media4.giphy.com/media/iG9uNqUYA90WxQoWvx/200w.webp" width="50" style="margin-bottom:-20px"> 
+</em></p>
 
-Hello! I'm Jennifer Pichardo (pronouns: they/she), an aspiring game developer currently studying Game Design and Development at Rochester Institute of Technology.
+### <img src="https://media2.giphy.com/media/jtQWcLcZPnx64woMB5/200w.webp" width="50" style="margin-bottom:-20px"> A little more about me...  
 
-I enjoy working alongside others to help develop creative and fun interactive projects. I'm familiar with languages such as C#, C++, HTML, CSS, and JavaScript.
+```javascript
+const jennifer = {
+  pronouns: "they" | "she",
+  code: [Javascript, Typescript, HTML, CSS, C#, C++, Python],
+  askMeAbout: ["game design", "web dev", "tech", "music", "art"],
+  technologies:{
+      frontEnd:{
+        js: ["React", "Vue"],
+        css: ["Bootstrap", "Bulma"]
+      },
+      backEnd: ["Node", "MongoDB"],
+      gameDev: ["Unity", "Unreal Engine"]
+  },
+  favoriteGames: ["Mother 3", "Ace Attorney", "Pokemon", "Wadanohara"]
+};
+```
 
-
-In my spare time, I draw digital illustrations, both original character design and fanart, posting them on my social media.
-
-
-Feel free to look at my pinned repositories for examples of projects I worked on. Thank you!
-
-
-Contact me:
+### Contact Me
 - [Website](https://jenniferpichardo.com/)
 - [LinkedIn](https://linkedin.com/in/jennifer-pichardo)
-- [Email](mailto:jenniferpichardo15@gmail.com)
+
+---
